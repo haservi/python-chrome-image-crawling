@@ -1,4 +1,4 @@
-# python-web-crawling
+# python-chrome-image-crawling
 Chrome web crawling using python
 
 ## 설치 방법
